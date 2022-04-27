@@ -8,8 +8,8 @@ void main()
  printf("So to cac loai menh gia la :\n");
  printf("Loai 100 : %d to\n",t100);
  printf("Loai 20 : %d to\n",t20);
-printf("Loai 5 : %d to\n",t5);
-printf("Loai 1 : %d to\n",t);
+printf("Loai 5 : % to\n",t5);
+printf("Loai 1 : %d to\n",t);;
 printf("Tong so to cac loai la : %d\n",t+t5+t20+t100);
  getch();
 }
